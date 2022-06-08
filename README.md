@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=harurow)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=harurow&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![TOP Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=harurow&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
